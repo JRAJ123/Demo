@@ -1,0 +1,10 @@
+<web-app >
+<servlet>
+    <servlet-name>Update</servlet-name>
+    <servlet-class>covid2020.updateprofile</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Update</servlet-name>
+    <url-pattern>/update</url-pattern>
+  </servlet-mapping>
+  </web-app>
